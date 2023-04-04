@@ -1,4 +1,4 @@
-Animal_Kingdom
+Project Animal_Kingdom
 Animal Kingdom Project for Software Design and Development Course from Untiar International University Master of Information Technology Supervised by Dr. Hadi Najvipour Prepared by Wael Mohamed Abdel Hamid Al-Qadi
 
 ABSTRACT 
